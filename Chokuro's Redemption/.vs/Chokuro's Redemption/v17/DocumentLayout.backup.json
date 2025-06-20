@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|c:\\users\\arian\\onedrive\\desktop\\school\\tfs\\year one\\2025 spring\\vgp123 (unity)\\assignments\\assignment 2\\chokuro\u0027s redemption\\assets\\game\\scripts\\player\\damageplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player\\damageplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|c:\\users\\arian\\onedrive\\desktop\\school\\tfs\\year one\\2025 spring\\vgp123 (unity)\\assignments\\assignment 2\\chokuro\u0027s redemption\\assets\\game\\scripts\\player\\spike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player\\spike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\assets\\game\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|c:\\users\\arian\\onedrive\\desktop\\school\\tfs\\year one\\2025 spring\\vgp123 (unity)\\assignments\\assignment 2\\chokuro\u0027s redemption\\assets\\game\\scripts\\enemy\\enemypathfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\enemy\\enemypathfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\assets\\game\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\assets\\game\\scripts\\player\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\assets\\game\\scripts\\managers\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D268DCE-D3FB-ACF4-DE06-778B221873DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\managers\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DamagePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Player\\DamagePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Player\\DamagePlayer.cs",
+              "ToolTip": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Player\\DamagePlayer.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Player\\DamagePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:29:35.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spike.cs",
+              "DocumentMoniker": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Player\\Spike.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Player\\Spike.cs",
+              "ToolTip": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Player\\Spike.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Player\\Spike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:29:16.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Pickups\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Pickups\\Pickup.cs",
+              "ToolTip": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Pickups\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Pickups\\Pickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:14:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv0kAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:49:54.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HudController.cs",
+              "DocumentMoniker": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Managers\\HudController.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Managers\\HudController.cs",
+              "ToolTip": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Managers\\HudController.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Managers\\HudController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:41:00.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovements.cs",
+              "DocumentMoniker": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Player\\PlayerMovements.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Player\\PlayerMovements.cs",
+              "ToolTip": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Player\\PlayerMovements.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Player\\PlayerMovements.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:27:35.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyPathFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Enemy\\EnemyPathFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Enemy\\EnemyPathFollow.cs",
+              "ToolTip": "C:\\Users\\Arian\\OneDrive\\Desktop\\School\\TFS\\Year one\\2025 Spring\\VGP123 (Unity)\\Assignments\\assignment 2\\Chokuro\u0027s Redemption\\Assets\\Game\\Scripts\\Enemy\\EnemyPathFollow.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Enemy\\EnemyPathFollow.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:24:02.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

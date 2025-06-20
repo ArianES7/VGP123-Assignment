@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5bc08211a91b844b109672816eb7a8, type: 3}
+  m_Name: Score
+  m_EditorClassIdentifier: 
+  name: Score
+  clip: {fileID: 8300000, guid: 8681596dc2552e746b2ee0d53b521b46, type: 3}
+  volume: 0.449
+  pitch: 1
+  loop: 0
